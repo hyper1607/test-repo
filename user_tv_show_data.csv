@@ -1,0 +1,473 @@
+user_id,tv_show_id,is_followed,is_favorited,nb_episodes_seen,tv_show_name
+27701550,70350,1,0,26,Neon Genesis Evangelion
+27701550,70863,1,0,0,Rurouni Kenshin
+27701550,71278,1,0,13,Hellsing
+27701550,71361,1,0,0,InuYasha
+27701550,71742,1,0,0,Boogiepop Phantom
+27701550,71863,1,0,0,Lupin III
+27701550,72241,1,0,0,Digimon: Digital Monsters
+27701550,72491,1,0,0,Slam Dunk
+27701550,72775,1,0,0,Saint Seiya
+27701550,72902,1,0,0,Last Exile
+27701550,73255,1,0,0,House
+27701550,73749,1,0,26,Ghost in the Shell: Stand Alone Complex
+27701550,73750,1,0,0,Spider-Man: The Animated Series
+27701550,73752,1,0,25,Berserk
+27701550,73871,1,0,0,Futurama
+27701550,74598,1,0,52,Tokyo Mew Mew
+27701550,74599,1,0,74,Monster
+27701550,74796,1,0,31,Bleach
+27701550,74852,1,0,61,Avatar: The Last Airbender
+27701550,75092,1,0,0,Paranoia Agent
+27701550,75164,1,0,0,Samurai Jack
+27701550,75417,1,0,0,Batman Beyond
+27701550,75579,1,0,51,Fullmetal Alchemist
+27701550,75838,1,0,0,Beck: Mongolian Chop Squad
+27701550,75897,1,0,0,South Park
+27701550,75939,1,0,0,Battle B-Daman
+27701550,75941,1,0,13,Elfen Lied
+27701550,76113,1,0,0,Yu-Gi-Oh! GX
+27701550,76168,1,0,0,Batman: The Animated Series
+27701550,76320,1,0,0,Justice League
+27701550,76665,1,0,37,Yu Yu Hakusho
+27701550,76703,1,0,461,Pokémon
+27701550,76885,1,0,26,Cowboy Bebop
+27701550,76894,1,0,6,Yu-Gi-Oh! Duel Monsters
+27701550,77680,1,0,0,Trigun
+27701550,78645,1,0,1,Spawn
+27701550,78804,1,0,0,Doctor Who (2005)
+27701550,78814,1,0,13,Serial Experiments Lain
+27701550,78857,1,0,220,Naruto
+27701550,78900,1,0,0,Fruits Basket
+27701550,78901,1,0,0,Supernatural
+27701550,78967,1,0,0,Trinity Blood
+27701550,79089,1,0,26,Samurai Champloo
+27701550,79129,1,0,0,Noein: To Your Other Self
+27701550,79151,1,0,24,Fate/Stay Night
+27701550,79156,1,0,0,Fist of the North Star
+27701550,79168,1,0,0,Friends
+27701550,79178,1,0,0,Gankutsuou: The Count of Monte Cristo
+27701550,79179,1,0,0,Kino's Journey
+27701550,79214,1,0,42,Mushi-Shi
+27701550,79228,1,0,0,Ergo Proxy
+27701550,79237,1,0,48,Baki the Grappler
+27701550,79275,1,0,64,Dragon Ball GT
+27701550,79355,1,0,0,Bobobo-bo Bo-bobo
+27701550,79414,1,0,0,The Melancholy of Haruhi Suzumiya
+27701550,79449,1,0,0,Revolutionary Girl Utena
+27701550,79481,1,0,37,Death Note
+27701550,79525,1,0,50,Code Geass: Lelouch of the Rebellion
+27701550,79604,1,0,0,Black Lagoon
+27701550,79635,1,0,0,D.Gray-man
+27701550,79682,1,0,40,When They Cry - Higurashi
+27701550,79685,1,0,0,Fighting Spirit
+27701550,79755,1,0,0,Afro Samurai
+27701550,79824,1,0,294,Naruto Shippuden
+27701550,79857,1,0,64,Shaman King
+27701550,79895,1,0,0,Gintama
+27701550,79995,1,0,0,Claymore
+27701550,80042,1,0,25,Darker Than Black
+27701550,80096,1,0,27,Gurren Lagann
+27701550,80111,1,0,0,Bokurano
+27701550,80224,1,0,1,Devil May Cry
+27701550,80304,1,0,0,Blame!
+27701550,80421,1,0,0,Baccano!
+27701550,80478,1,0,0,School Days
+27701550,80644,1,0,0,Clannad
+27701550,80742,1,0,0,NANA
+27701550,80975,1,0,0,Katekyo Hitman Reborn!
+27701550,81178,1,0,0,Spice and Wolf
+27701550,81189,1,0,17,Breaking Bad
+27701550,81232,1,0,0,Tomorrow's Joe
+27701550,81234,1,0,31,Kaiji
+27701550,81472,1,0,291,Dragon Ball Z
+27701550,81494,1,0,0,The Spectacular Spider-Man
+27701550,81618,1,0,0,Legend of the Galactic Heroes
+27701550,81751,1,0,51,Soul Eater
+27701550,81797,1,0,69,One Piece
+27701550,81816,1,0,0,Vampire Knight
+27701550,82234,1,0,0,Ghost Stories
+27701550,82498,1,0,0,Blade of the Immortal
+27701550,83054,1,0,2,Hitler: The Rise of Evil
+27701550,83123,1,0,0,Merlin
+27701550,83268,1,0,1,Star Wars: The Clone Wars
+27701550,83277,1,0,0,Toradora!
+27701550,83996,1,0,32,Black Butler
+27701550,84911,1,0,0,Yu-Gi-Oh! 5D's
+27701550,85094,1,0,13,Legends of the Dark King: A Fist of the North Star Story
+27701550,85249,1,0,70,Fullmetal Alchemist: Brotherhood
+27701550,87501,1,0,0,K-ON!
+27701550,88031,1,0,0,Dragon Ball Kai
+27701550,95491,1,0,0,The Vampire Diaries
+27701550,97771,1,0,0,Batman: Gotham Knight
+27701550,102261,1,0,111,Monogatari
+27701550,113561,1,0,10,Yu-Gi-Oh!
+27701550,114801,1,0,0,Fairy Tail
+27701550,121361,1,0,74,Game of Thrones
+27701550,132941,1,0,0,Katanagatari
+27701550,133341,1,0,4,Durarara!!
+27701550,140751,1,0,0,The Tatami Galaxy
+27701550,143271,1,0,0,Arakawa Under the Bridge
+27701550,143471,1,0,0,Yawara! A Fashionable Judo Girl
+27701550,148151,1,0,0,Maid Sama!
+27701550,150471,1,0,13,Angel Beats!
+27701550,152831,1,0,0,Adventure Time
+27701550,153021,1,0,139,The Walking Dead
+27701550,162711,1,0,0,Black Rock Shooter
+27701550,163371,1,0,6,Bright Falls
+27701550,171591,1,0,0,High School of the Dead
+27701550,176941,1,0,0,Sherlock
+27701550,186311,1,0,0,Spider Riders
+27701550,192061,1,0,72,Young Justice
+27701550,193811,1,0,0,Bakuman
+27701550,195711,1,0,13,The World God Only Knows
+27701550,219181,1,0,12,Puella Magi Madoka Magica
+27701550,219771,1,0,20,Beelzebub
+27701550,240291,1,0,0,Nichijou: My Ordinary Life
+27701550,244061,1,0,26,Steins;Gate
+27701550,247231,1,0,0,Toriko
+27701550,247958,1,0,9,Anohana: The Flower We Saw That Day
+27701550,247997,1,0,12,Deadman Wonderland
+27701550,248035,1,0,0,Blue Exorcist
+27701550,249827,1,0,26,The Future Diary
+27701550,249864,1,0,0,Blood-C
+27701550,249872,1,0,0,Bunny Drop
+27701550,250030,1,0,0,No. 6
+27701550,250487,1,0,12,American Horror Story
+27701550,251085,1,0,52,The Legend of Korra
+27701550,251908,1,0,0,Haganai: I Don't Have Many Friends
+27701550,251982,0,0,0,Chihayafuru
+27701550,252232,1,0,0,Persona4 the ANIMATION
+27701550,252322,1,0,148,Hunter x Hunter (2011)
+27701550,252471,1,0,0,Guilty Crown
+27701550,253463,1,0,0,Black Mirror
+27701550,254349,1,0,13,Another
+27701550,254653,1,0,72,High School D×D
+27701550,257645,1,0,0,Marvel's Ultimate Spider-Man
+27701550,257655,1,0,0,Arrow
+27701550,257764,1,0,0,Hyouka
+27701550,259063,1,0,0,Hannibal
+27701550,259640,1,0,49,Sword Art Online
+27701550,259972,1,0,0,Gravity Falls
+27701550,260449,1,0,21,Vikings
+27701550,261862,1,0,0,"Love, Chunibyo & Other Delusions!"
+27701550,262090,1,0,24,Psycho-Pass
+27701550,262094,1,0,0,Magi: The Labyrinth of Magic
+27701550,262954,1,0,319,JoJo's Bizarre Adventure (2012)
+27701550,263688,1,0,10,Hellsing Ultimate
+27701550,263999,1,0,0,RWBY
+27701550,264030,1,0,126,Marvel's Avengers Assemble
+27701550,264049,1,0,0,The Troubled Life of Miss Kotoura
+27701550,264533,1,0,0,Love Live!
+27701550,264663,1,0,0,Date A Live
+27701550,267435,1,0,38,My Teen Romantic Comedy SNAFU
+27701550,267440,1,0,194,Attack on Titan
+27701550,268592,1,0,0,The 100
+27701550,268700,1,0,25,Fate/Zero
+27701550,270058,1,0,1,Danganronpa: The Animation
+27701550,271988,1,0,1,Corpse Party: Tortured Souls
+27701550,272074,1,0,24,Kill la Kill
+27701550,272128,1,0,0,Log Horizon
+27701550,272138,1,0,0,Golden Time
+27701550,272849,1,0,0,Space Dandy
+27701550,272910,1,0,14,Dragon Ball Absalon
+27701550,273616,1,0,4,Pokémon: Origins
+27701550,273690,1,0,0,Constantine
+27701550,274065,0,0,0,The Tunnel
+27701550,274431,1,0,0,Gotham
+27701550,275274,1,0,37,Rick and Morty
+27701550,275610,1,0,33,Noragami
+27701550,275670,1,0,0,Nisekoi: False Love
+27701550,276890,1,0,0,Black Bullet
+27701550,277565,1,0,0,Yu-Gi-Oh! Zexal II
+27701550,278155,1,0,26,No Game No Life
+27701550,278157,1,0,0,Haikyu!!
+27701550,278371,1,0,0,Soul Eater Not!
+27701550,278626,0,0,28,Fate/Stay Night: Unlimited Blade Works
+27701550,278975,1,0,0,Yu-Gi-Oh! Arc-V
+27701550,279121,1,0,15,The Flash (2014)
+27701550,279533,1,0,0,KanColle
+27701550,279827,1,0,0,Aldnoah.Zero
+27701550,279830,1,0,23,Your Lie in April
+27701550,279831,1,0,24,Parasyte -the maxim-
+27701550,279986,1,0,11,Terror in Resonance
+27701550,280329,1,0,24,Akame ga Kill!
+27701550,281249,1,0,48,Tokyo Ghoul
+27701550,281270,1,0,0,Barakamon
+27701550,281643,1,0,0,Over the Garden Wall
+27701550,281662,1,0,0,Marvel's Daredevil
+27701550,283934,1,0,0,World Trigger
+27701550,283947,1,0,47,Assassination Classroom
+27701550,284131,1,0,176,The Seven Deadly Sins
+27701550,284190,1,0,0,Marvel's Jessica Jones
+27701550,284563,1,0,0,Wolf Girl & Black Prince
+27701550,289177,1,0,14,Death Parade
+27701550,289906,1,0,0,Seraph of the End
+27701550,289909,1,0,0,Food Wars!
+27701550,290075,1,0,4,Tsukimonogatari
+27701550,290853,1,0,0,Fear the Walking Dead
+27701550,291627,1,0,0,Plastic Memories
+27701550,291630,1,0,0,The Heroic Legend of Arslan (2015)
+27701550,292309,1,0,4,Hanamonogatari
+27701550,293088,1,0,41,One-Punch Man
+27701550,293119,1,0,0,Monster Musume: Everyday Life with Monster Girls
+27701550,293267,1,0,0,Prison School
+27701550,293491,1,0,0,Ghost in the Shell: Arise - Alternative Architecture
+27701550,294001,1,0,0,Ushio and Tora (2015)
+27701550,294002,1,0,50,Overlord
+27701550,294417,1,0,0,Scream: The TV Series
+27701550,295068,1,0,131,Dragon Ball Super
+27701550,295222,1,0,0,GATE
+27701550,295685,1,0,0,Lucifer
+27701550,295759,0,0,0,Supergirl
+27701550,295760,1,0,0,DC's Legends of Tomorrow
+27701550,296762,0,0,0,Westworld
+27701550,299500,1,0,12,Divine Gate
+27701550,299506,1,0,12,Chivalry of a Failed Knight
+27701550,299963,1,0,0,Dimension W
+27701550,300835,1,0,26,Ajin
+27701550,303071,1,0,12,Erased
+27701550,303725,1,0,0,Dagashi Kashi
+27701550,303867,1,0,21,KonoSuba – God’s blessing on this wonderful world!!
+27701550,303868,1,0,0,"Grimgar, Ashes and Illusions"
+27701550,305074,1,0,68,My Hero Academia
+27701550,305075,1,0,0,Bungo Stray Dogs
+27701550,305078,1,0,12,Joker Game
+27701550,305082,1,0,12,Kabaneri of the Iron Fortress
+27701550,305089,1,0,50,"Re: ZERO, Starting Life in Another World"
+27701550,305288,1,0,30,Stranger Things
+27701550,306153,1,0,12,Haven't You Heard? I'm Sakamoto
+27701550,306269,1,0,0,March Comes in Like a Lion
+27701550,307110,1,0,12,Servamp
+27701550,307375,1,0,40,Mob Psycho 100
+27701550,307899,1,0,0,Voltron: Legendary Defender
+27701550,308772,1,0,0,Van Helsing
+27701550,309530,1,0,0,91 Days
+27701550,310718,1,0,0,Magi: Adventure of Sinbad
+27701550,311014,1,0,0,Tales of Zestiria the X
+27701550,311537,1,0,12,Taboo Tattoo
+27701550,311954,1,0,0,Riverdale
+27701550,312559,1,0,12,Drifters (2016)
+27701550,312878,1,0,0,D.Gray-man Hallow
+27701550,315091,1,0,0,Tiger Mask W
+27701550,315093,1,0,0,Trickster
+27701550,316842,1,0,0,The Ancient Magus' Bride
+27701550,316998,1,0,0,Pokémon Generations
+27701550,317953,1,0,0,Marvel's Iron Fist
+27701550,318893,1,0,25,Miss Kobayashi's Dragon Maid
+27701550,319410,1,0,0,Eromanga Sensei
+27701550,321209,1,0,0,Inuyashiki Last Hero
+27701550,321285,1,0,65,Boruto: Naruto Next Generations
+27701550,322209,1,0,0,Fate/Grand Order
+27701550,326109,1,0,26,Made in Abyss
+27701550,326270,1,0,0,The King's Avatar
+27701550,326332,1,0,25,Fate/Apocrypha
+27701550,326490,1,0,0,Marvel's The Defenders
+27701550,327015,1,0,0,Love and Lies
+27701550,327245,1,0,102,Yu-Gi-Oh! VRAINS
+27701550,327572,1,0,22,Kakegurui
+27701550,327859,1,0,0,Noblesse
+27701550,328711,1,0,0,Star Trek: Discovery
+27701550,328719,1,0,1,A Silent Voice
+27701550,329065,1,0,54,Castlevania
+27701550,330139,1,0,14,Violet Evergarden
+27701550,331600,1,0,0,Castle Rock
+27701550,331753,1,0,1,Black Clover
+27701550,331980,1,0,0,Marvel's The Punisher
+27701550,332027,1,0,0,Marvel's Runaways
+27701550,332162,1,0,12,BLEND-S
+27701550,332271,1,0,0,Your name
+27701550,332525,1,0,0,Black Lightning
+27701550,332981,1,0,0,King's Game: The Animation
+27701550,332983,1,0,0,Girls' Last Tour
+27701550,333152,1,0,0,Kino's Journey: The Beautiful World - The Animated Series
+27701550,334180,1,0,0,Cannon Busters
+27701550,334824,1,0,43,Dark
+27701550,335088,1,0,0,Nekopara
+27701550,336139,1,0,0,Constantine: City of Demons
+27701550,337017,1,0,24,DARLING in the FRANXX
+27701550,337018,1,0,13,Fate/Extra: Last Encore
+27701550,338192,1,0,10,Devilman Crybaby
+27701550,338268,1,0,10,Studio Ghibli
+27701550,338455,1,0,0,Golden Kamuy
+27701550,338947,1,0,0,Chilling Adventures of Sabrina
+27701550,339268,1,0,1,Steins;Gate 0
+27701550,340234,1,0,0,Disenchantment
+27701550,341437,1,0,0,Megalobox
+27701550,341663,1,0,0,Titans (2018)
+27701550,343253,1,0,0,Lost in Space (2018)
+27701550,343384,1,0,8,Banana Fish
+27701550,345246,1,0,0,The Haunting
+27701550,345596,1,0,13,Rascal Does Not Dream of Bunny Girl Senpai
+27701550,346744,0,0,4,Aggretsuko
+27701550,346798,1,0,0,Asobi Asobase - workshop of fun -
+27701550,346931,1,0,0,Cells at Work!
+27701550,347734,1,0,12,Super Dragon Ball Heroes
+27701550,348002,1,0,23,The Promised Neverland
+27701550,348545,1,0,80,Demon Slayer: Kimetsu no Yaiba
+27701550,348742,1,0,52,Baki (2018)
+27701550,350123,1,0,0,The Dragon Prince
+27701550,350166,1,0,14,Goblin Slayer
+27701550,350557,1,0,0,Wolf Children
+27701550,351953,1,0,0,Zombie Land Saga
+27701550,352298,1,0,0,DC Universe Original Movies
+27701550,352408,1,0,45,That Time I Got Reincarnated as a Slime
+27701550,353049,1,0,0,Avatar: The Last Airbender (2021)
+27701550,353296,1,0,0,Voice of Fox
+27701550,353666,1,0,22,Fate/Grand Order - Absolute Demonic Front: Babylonia
+27701550,353712,1,0,0,The Rising of the Shield Hero
+27701550,353764,1,0,0,The Umbrella Academy
+27701550,354154,1,0,0,Carole & Tuesday
+27701550,354167,1,0,24,Dororo (2019)
+27701550,354170,1,0,1,Domestic Girlfriend
+27701550,354179,1,0,0,Kengan Ashura
+27701550,354198,1,0,37,Kaguya-sama: Love Is War
+27701550,355480,1,0,1,Fire Force
+27701550,355567,1,0,13,The Boys
+27701550,355624,1,0,0,Boogiepop and Others
+27701550,355774,1,0,1,Dr. STONE
+27701550,355966,1,0,40,The Quintessential Quintuplets
+27701550,357431,1,0,0,Assassins Pride
+27701550,357488,1,0,0,Fruits Basket (2019)
+27701550,357864,1,0,0,Lovecraft Country
+27701550,357888,1,0,0,"Love, Death & Robots"
+27701550,359095,1,0,0,We Never Learn: BOKUBEN
+27701550,359274,1,0,16,Vinland Saga
+27701550,360733,1,0,0,Watchmen
+27701550,360893,1,0,5,Chernobyl
+27701550,361013,1,0,24,BEASTARS
+27701550,361140,1,0,0,Blood of Zeus
+27701550,361160,1,0,0,Dracula (2020)
+27701550,361315,1,0,0,Batwoman
+27701550,361351,1,0,0,Miru Tights
+27701550,361713,1,0,0,The Ones Within
+27701550,361735,0,0,4,Swamp Thing (2019)
+27701550,361753,1,0,18,The Mandalorian
+27701550,362392,1,0,0,WandaVision
+27701550,362496,1,0,0,The Falcon and The Winter Soldier
+27701550,362696,1,0,32,The Witcher
+27701550,362839,1,0,0,"If It's for My Daughter, I'd Even Defeat a Demon Lord"
+27701550,363699,1,0,0,When the Devil Calls Your Name
+27701550,364471,1,0,0,The Alcàsser Murders
+27701550,364628,1,0,1,The Future Diary: Redial
+27701550,366211,1,0,4,The Sandman
+27701550,367506,1,0,6,The Lord of the Rings: The Rings of Power
+27701550,368207,1,0,10,INVINCIBLE (2021)
+27701550,368387,0,0,0,The I-Land
+27701550,368562,1,0,0,Plunderer
+27701550,368611,1,0,5,Moon Knight
+27701550,369026,1,0,2,Uzumaki
+27701550,369048,1,0,0,Cautious Hero: The Hero Is Overpowered but Overly Cautious
+27701550,369395,1,0,0,High School Prodigies Have It Easy Even in Another World!
+27701550,369735,1,0,0,Blade of the Immortal (2019)
+27701550,369950,1,0,0,Cursed (2020)
+27701550,370931,1,0,33,Magia Record: Puella Magi Madoka Magica Side Story
+27701550,371028,1,0,2,Arcane
+27701550,371108,1,0,0,Adachi and Shimamura
+27701550,371310,1,0,0,Mushoku Tensei: Jobless Reincarnation
+27701550,371572,1,0,12,House of the Dragon
+27701550,371610,1,0,0,V-Wars
+27701550,371662,1,0,0,Interspecies Reviewers
+27701550,372787,1,0,0,The Walking Dead: World Beyond
+27701550,373082,1,0,0,Gibiate
+27701550,375655,1,0,3,Superman & Lois
+27701550,375927,1,0,0,The Misfit of Demon King Academy
+27701550,376037,1,0,0,TAMAYOMI: The Baseball Girls
+27701550,376144,1,0,0,Great Pretender
+27701550,376472,1,0,3,Alice in Borderland (2020)
+27701550,376729,1,0,13,Tower of God
+27701550,377034,1,0,0,Princess Connect! Re:Dive
+27701550,377543,1,0,40,JUJUTSU KAISEN
+27701550,378553,1,0,0,The Midnight Gospel
+27701550,378556,1,0,13,The God of High School
+27701550,380654,1,0,27,Rent-a-Girlfriend
+27701550,380655,1,0,0,Monster Girl Doctor
+27701550,381406,1,0,0,Uzaki-chan Wants to Hang Out!
+27701550,381769,1,0,0,Ikebukuro West Gate Park (2020)
+27701550,383275,1,0,10,Squid Game
+27701550,383837,1,0,54,Shaman King (2021)
+27701550,384485,1,0,0,Yashahime: Princess Half-Demon
+27701550,384541,1,0,0,Cyberpunk: Edgerunners
+27701550,385077,1,0,0,TONIKAWA: Over the Moon for You
+27701550,385278,1,0,26,"Don't Toy With Me, Miss Nagatoro"
+27701550,385314,1,0,0,Dragon's Dogma
+27701550,386191,1,0,0,Iwakakeru -Sport Climbing Girls-
+27701550,386572,1,0,0,Kuma Kuma Kuma Bear
+27701550,386818,1,0,18,Noblesse
+27701550,387060,1,0,1,Vampire in the Garden
+27701550,388593,1,0,13,Horimiya
+27701550,388644,1,0,11,World's End Harem
+27701550,388645,0,0,0,Edens Zero
+27701550,389377,1,0,2,I've Been Killing Slimes for 300 Years and Maxed Out My Level
+27701550,389597,1,0,8,Solo Leveling
+27701550,390028,1,0,12,Wonder Egg Priority
+27701550,390306,1,0,13,"Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway"
+27701550,391153,1,0,11,Peacemaker
+27701550,392256,1,0,8,The Last of Us
+27701550,392668,1,0,12,The World Ends With You: The Animation
+27701550,393187,1,0,5,Ahsoka
+27701550,393190,1,0,3,Star Wars: Visions
+27701550,393199,1,0,3,Obi-Wan Kenobi
+27701550,393203,1,0,1,Secret Invasion
+27701550,393301,1,0,9,Harem in the Labyrinth of Another World
+27701550,393478,1,0,0,Tokyo Revengers
+27701550,393589,1,0,0,The Book of Boba Fett
+27701550,394340,1,0,12,Combatants Will Be Dispatched!
+27701550,395486,1,0,7,"Girlfriend, Girlfriend"
+27701550,396983,1,0,20,DOTA: Dragon's Blood
+27701550,397060,1,0,4,Wednesday
+27701550,397250,1,0,1,Mars Red
+27701550,397280,1,0,22,Tokyo Mew Mew New
+27701550,397774,1,0,13,Vivy: Fluorite Eye's Song
+27701550,397934,1,0,11,Chainsaw Man
+27701550,397965,1,0,0,Those Snow White Notes
+27701550,398193,1,0,10,The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+27701550,399121,1,0,11,Mieruko-chan
+27701550,399222,1,0,15,Scarlet Nexus
+27701550,399902,1,0,27,Platinum End
+27701550,399990,1,0,16,Blue Period
+27701550,400015,1,0,0,The Vampire Dies in No Time
+27701550,401003,1,0,0,FROM
+27701550,401233,1,0,15,My Dress-Up Darling
+27701550,401915,1,0,17,The Faraway Paladin
+27701550,402117,1,0,8,Shikimori's Not Just a Cutie
+27701550,402412,1,0,25,Komi Can't Communicate
+27701550,402893,1,0,5,Magical Destroyers
+27701550,405661,1,0,16,Takt op.Destiny
+27701550,405904,1,0,1,New Battle Vixens
+27701550,405920,1,0,21,SPY x FAMILY
+27701550,406152,1,0,16,Baki Hanma
+27701550,407682,1,0,3,Deep Insanity: The Lost Child
+27701550,412031,1,0,6,Tomodachi Game
+27701550,412374,1,0,13,Call of the Night
+27701550,412580,1,0,8,Ya Boy Kongming!
+27701550,413578,1,0,8,Rurouni Kenshin (2023)
+27701550,414057,1,0,1,Lycoris Recoil
+27701550,415677,1,0,5,"Bastard!! -Heavy Metal, Dark Fantasy-"
+27701550,416744,1,0,5,Fallout
+27701550,416998,1,0,7,NieR:Automata Ver1.1a
+27701550,418001,1,0,0,Tekken: Bloodline
+27701550,418185,1,0,2,My Life as Inukai-san's Dog
+27701550,418203,1,0,9,RWBY: Ice Queendom
+27701550,418265,1,0,12,Engage Kiss
+27701550,418364,1,0,17,Mobile Suit Gundam: The Witch from Mercury
+27701550,418424,1,0,3,IT: Welcome to Derry
+27701550,419457,1,0,2,Pokémon: Hisuian Snow
+27701550,420657,0,0,1,KonoSuba: An Explosion on This Wonderful World!
+27701550,421069,1,0,18,Oshi no Ko
+27701550,421378,1,0,135,TRIGUN STAMPEDE
+27701550,422712,1,0,5,Daredevil: Born Again
+27701550,423030,1,0,7,Undead Unluck
+27701550,424536,1,0,2,Frieren: Beyond Journey's End
+27701550,427239,1,0,10,Dead Mount Death Play
+27701550,430518,1,0,7,Creature Commandos
+27701550,432050,1,0,0,"The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You"
+27701550,432832,1,0,3,DAN DA DAN
+27701550,433631,1,0,4,A Knight of the Seven Kingdoms
+27701550,436124,1,0,9,Horimiya: The Missing Pieces
+27701550,438650,1,0,2,Brawn: The Impossible Formula 1 Story
+27701550,440193,1,0,6,Devil May Cry (2025)
+27701550,440820,1,0,1,Dragon Ball DAIMA
+27701550,442145,1,0,1,Terminator Zero
+27701550,458912,1,0,4,Alien: Earth
+27701550,467753,1,0,1,BAKI-DOU: The Invincible Samurai
